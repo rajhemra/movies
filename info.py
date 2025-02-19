@@ -51,26 +51,3 @@ def search_file(client, message):
 # Start the bot
 print("Bot is running...")
 bot.run()
-#---------------------------------------------------------------
-#---------------------------------------------------------------
-SETTINGS = {
-            'spell_check': SPELL_CHECK,
-            'auto_filter': AUTO_FILTER,
-            'file_secure': PROTECT_CONTENT,
-            'auto_delete': AUTO_DELETE,
-            'template': IMDB_TEMPLATE,
-            'caption': FILE_CAPTION,
-            'tutorial': TUTORIAL,
-            'shortner': SHORTENER_WEBSITE,
-            'api': SHORTENER_API,
-            'shortner_two': SHORTENER_WEBSITE2,
-            'api_two': SHORTENER_API2,
-            'log': LOG_VR_CHANNEL,
-            'imdb': IMDB,
-            'link': LINK_MODE, 
-            'is_verify': IS_VERIFY, 
-            'verify_time': TWO_VERIFY_GAP,
-            'shortner_three': SHORTENER_WEBSITE3,
-            'api_three': SHORTENER_API3,
-            'third_verify_time': THREE_VERIFY_GAP
-}
