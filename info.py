@@ -8,7 +8,7 @@ from pymongo import MongoClient
 API_ID = 22125271  # Replace with your API ID
 API_HASH = "ee54ed0f27ef14430e653aa620b5e828"  # Replace with your API Hash
 BOT_TOKEN = "7825304144:AAHoL-LiXNYlBKpOpfk1nFt__HGVCU01jGE"  # Replace with your Bot Token
-MONGO_URI = "mongodb+srv://rajhamraj45:rajhamraj45@hemraj.fygnq.mongodb.net/?retryWrites=true&w=majority&appName=hemraj"  # Replace with your MongoDB URI
+MONGO_URI = "mongodb+srv://Hemraj: Hemraj@hemraj.igyty.mongodb.net/?retryWrites=true&w=majority&appName=hemraj"  # Replace with your MongoDB URI
 CHANNEL_ID = -1002495162924  # Replace with your Channel/Group ID
 
 # Initialize Bot
